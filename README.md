@@ -1,5 +1,5 @@
 # Credit Risk Analysis — Logistic Regression
-## MSc Statistics Project
+## MSc Statistics Project (2026)
 
 ## Overview
 This project analyzes credit risk using the German Credit Dataset (n=1000)
